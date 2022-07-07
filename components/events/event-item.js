@@ -1,8 +1,8 @@
 import classes from './event-item.module.css'
-import Button from "./ui/button";
-import DateIcon from "./icons/date-icon";
-import AddressIcon from "./icons/address-icon";
-import ArrowRightIcon from "./icons/arrow-right-icon";
+import Button from "../ui/button";
+import DateIcon from "../icons/date-icon";
+import AddressIcon from "../icons/address-icon";
+import ArrowRightIcon from "../icons/arrow-right-icon";
 
 function EventItem (props){
 
